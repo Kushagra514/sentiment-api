@@ -8,3 +8,4 @@ Deployed on Render via GitHub Actions CI/CD.
 - scikit-learn
 - Docker
 - Render
+- Linear Regression
